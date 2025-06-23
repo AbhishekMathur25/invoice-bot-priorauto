@@ -1,0 +1,6 @@
+python-telegram-bot
+pandas
+python-dotenv
+google-generativeai
+openpyxl
+pytz
